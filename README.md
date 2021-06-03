@@ -34,3 +34,7 @@ In order to get a clear understading of the project you can refer following link
 ## License
 
 [MIT](https://github.com/ManojLL/Brahmilator/blob/master/LICENSE.md)
+
+---
+
+![Search Page](Intro.png)
